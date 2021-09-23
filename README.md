@@ -1,2 +1,2 @@
 My laboratory work for university - Calculator
-<img src="img/image.JPG" height="50%" />
+<img src="img/image.JPG" height="600px" />
